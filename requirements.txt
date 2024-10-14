@@ -1,0 +1,5 @@
+matplotlib==3.5.3
+numpy==1.21.5
+python==3.10.9
+tensorboardX==2.6.1
+torch==1.10.1+cu113

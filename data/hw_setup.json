@@ -1,0 +1,43 @@
+{
+    "1":{
+        "save_num": 24,
+        "restore_num": 20,
+        "parity_num": 4,
+        "chunk_size": 6144,
+        "jbod_num": 8,
+        "rack_num": 2,
+        "smr_num": 48,
+        "hdd_num": 12,
+        "dg_num": 36,
+        "as_dg_num": 9,
+        "max_poweron_dg": 2
+    },
+
+    "2":{
+        "save_num": 21,
+        "restore_num": 18,
+        "parity_num": 3,
+        "chunk_size": 5376,
+        "jbod_num": 6,
+        "rack_num": 4,
+        "smr_num": 48,
+        "hdd_num": 16,
+        "dg_num": 60,
+        "as_dg_num": 15,
+        "max_poweron_dg": 4
+    },
+
+    "3":{
+        "save_num": 28,
+        "restore_num": 24,
+        "parity_num": 4,
+        "chunk_size": 7168,
+        "jbod_num": 8,
+        "rack_num": 4,
+        "smr_num": 64,
+        "hdd_num": 12,
+        "dg_num": 48,
+        "as_dg_num": 12,
+        "max_poweron_dg": 3
+    }
+}
